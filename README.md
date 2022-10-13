@@ -1,4 +1,4 @@
-# This repository is about how convert a image to sketch using Python
+# This repository is about how to convert a image to sketch using Python
 
 ## Clone the repository
 ```
